@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(118, 136, 38);
+    color: azure;
+}
+footer{
+    background-color: rgb(41, 20, 46);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+     text-align: center;
+
+}
+nav ul li a{
+   background-color: black;
+   margin: 0%;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-size: medium;
+   padding: o;
+   font-style: italic;
+display: flex;
+justify-content: center;
+list-style: none;
+}
